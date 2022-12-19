@@ -169,7 +169,7 @@
   line-height: 1.15;
   font-weight: 600;
   text-align: center;
-  z-index: 2; 
+  z-index: 2;
   margin: 100px auto 70px;
 }
   .feynman__subtitle{
@@ -182,10 +182,10 @@
   }
   .feynman__link{
     line-height: 51px;
-    font-size:36px ;
+    font-size:36px;
     font-weight:normal;
     top: 50%;
-    right:48px ;
+    right:48px;
     color: #2f80ed;
     text-decoration: none;
     position: absolute;
@@ -193,7 +193,7 @@
   .feynman__illustration{
     left: 0;
     bottom: 0;
-  position:absolute;
+    position:absolute;
     z-index: -1;
   }
   .kaufman{
