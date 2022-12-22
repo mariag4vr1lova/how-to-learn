@@ -160,7 +160,7 @@
   font-weight: normal;
   margin: 0 0 20px;
 }
- p:nth-child(3){
+ .table__text:last-of-type{
   margin: 0;
 }
 .feynman {
