@@ -163,8 +163,6 @@
  p:nth-child(3){
   margin: 0;
 }
-
-}
 .feynman {
   display: flex;
   min-height: 890px;
