@@ -1,0 +1,6 @@
+.feynman__illustration {
+  left: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: -1;
+}

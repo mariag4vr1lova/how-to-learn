@@ -1,0 +1,9 @@
+.resources__link{
+list-style: none;
+display: flex;
+justify-content: space-between;
+transition: opacity 3s ease;
+}
+.resources__link:hover{
+  opacity: 0.5;
+}
