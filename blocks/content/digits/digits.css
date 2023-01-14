@@ -1,0 +1,55 @@
+.digits {
+  display: flex;
+  margin: 100px auto 100px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.section-title {
+  width: 60%;
+  margin: auto;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 1.15;
+  text-align: center;
+}
+.section-subtitle {
+  width: 60%;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.table {
+  display: flex;
+  width: 1100px;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 0;
+  padding-left: 0;
+  flex-wrap: wrap;
+}
+.table__cell {
+  width: 250px;
+  margin-top: 60px;
+  list-style: none;
+}
+.table__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0 0 20px;
+}
+.table__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0 0 20px;
+}
+ .table__text:last-of-type{
+  margin: 0;
+}
