@@ -1,7 +1,8 @@
 .resources__link{
 list-style: none;
-display: flex;
-justify-content: space-between;
+width: 270px;
+height: 38px;
+text-align: center;
 transition: opacity 3s ease;
 }
 .resources__link:hover{
