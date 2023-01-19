@@ -20,38 +20,4 @@
   z-index: 0;
 }
 
-.header__title {
-  width: 730px;
-  margin-left: 64px;
-  font-size: 102px;
-  line-height: 96px;
-  font-weight: 600;
-  display: flex;
-  z-index: 3;
-  justify-content: center;
-  flex-direction: column;
-}
-.header__subtitle {
-  width: 388px;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 25px;
-  position: absolute;
-  bottom: 30px;
-  left: 64px;
-  margin: 0;
-  z-index: 2;
-}
-.header__link {
-  text-decoration: none;
-  color: #2f80ed;
-}
-.header__main-illustration {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 765px;
-  height: 608px;
-  z-index: 1;
-}
 
